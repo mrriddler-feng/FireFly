@@ -2,6 +2,8 @@
 
 FireFly是一个VisionPro项目，在空间中会随机刷新小球，你需要捕获小球。
 
+https://github.com/user-attachments/assets/2bb2265b-6ed3-4cbc-91e2-741d6747bf4f
+
 ## 交互性
 
 用右手食指靠近小球，以捕获小球。
